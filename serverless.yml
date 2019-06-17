@@ -25,7 +25,7 @@ custom:
 
 provider:
   name: aws
-  runtime: nodejs10.15
+  runtime: nodejs10.x
   stage: dev
   region: us-east-2
 
